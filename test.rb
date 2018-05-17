@@ -4,7 +4,7 @@ class Animal
   end
 end
 
-
+dog = Animal.new
 
 
 
