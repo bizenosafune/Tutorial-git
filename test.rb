@@ -4,6 +4,7 @@ class Animal
   end
 
   def rore
+    "vowwow!"
   end
 end
 
